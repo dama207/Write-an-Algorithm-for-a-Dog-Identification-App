@@ -1,1 +1,1 @@
-# Write-an-Algorithm-for-a-Dog-Identification-App
+# An Algorithm for a Dog Identification App

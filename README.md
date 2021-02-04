@@ -2,6 +2,8 @@
 
 This project is about deployment of an algorithm that has the goal of classify images. This  algorithm can detect if an image have a human or dog, also which is the breed of dog. For reach this goal, this used a neural network CNN and the technic of transfer learning.
 
+BLOG IN MEDIUM: https://damaris-hernandez.medium.com/is-easy-to-detect-if-an-image-has-a-dog-or-human-if-it-is-a-dog-which-is-its-breed-7c0a42625445
+
 # Libraries used
 
 - sklearn.

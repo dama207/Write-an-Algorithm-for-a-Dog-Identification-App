@@ -20,13 +20,13 @@ The data set has 8,351 total images with 133 different breeds.
 
 # Steps
 
-Step 0: Import Datasets
-Step 1: Detect Humans
-Step 2: Detect Dog
-Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
-Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
-Step 5: Write the Algorithm
-Step 6: Test the Algorithm
+- Step 0: Import Datasets
+- Step 1: Detect Humans
+- Step 2: Detect Dog
+- Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+- Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+- Step 5: Write the Algorithm
+- Step 6: Test the Algorithm
 
 # Results of the analysis
 

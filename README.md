@@ -1,8 +1,22 @@
 # An Algorithm for a Dog Identification App
 
-This project is about deployment of an algorithm that has the goal of classify images. This  algorithm can detect if an image have a human or dog, also which is the breed of dog. For reach this goal, this used a neural network CNN and the technic of transfer learning.
+# Project Overview
+
+This project is about deployment of an algorithm that has the goal of classify images. This  algorithm can detect if an image have a human or dog, also which is the breed of dog. For reach this goal, this used a neural network CNN and the technic of transfer learning. This is part of the Data Scientist Nanodegree, Udacity. 
 
 BLOG IN MEDIUM: https://damaris-hernandez.medium.com/is-easy-to-detect-if-an-image-has-a-dog-or-human-if-it-is-a-dog-which-is-its-breed-7c0a42625445
+
+# Problem Statement
+
+In last years with the digital exploitation, there are many images, if we need to classify them, this could be a difficult and wasteful task. This is the reason for build several solutions to solve it  like this project.
+
+# Metrics
+
+The principal metric used is compare the testing values and predicted values, if these values are equal, this is counting. This result divides by total number of the values in testing dataset.
+
+100*count(predictions == test_targets)/(total predictions)
+
+# Methodology
 
 # Libraries used
 

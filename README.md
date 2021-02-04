@@ -18,7 +18,7 @@ The principal metric used is compare the testing values and predicted values, if
 
 # Methodology
 
-# Libraries used
+## Libraries used
 
 - sklearn.
 - keras.
@@ -30,11 +30,11 @@ The principal metric used is compare the testing values and predicted values, if
 - cv2.
 - tqdm.
 
-# Dataset
+## Dataset
 
 The data set has 8,351 total images with 133 different breeds. 
 
-# Steps
+## Steps
 
 - Step 0: Import Datasets
 - Step 1: Detect Humans

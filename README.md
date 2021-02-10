@@ -17,6 +17,7 @@ To evaluate the performance, the principal metrics used were classification Accu
 100*count (predictions == test_targets)/(total predictions)
 
 To avoid the misclassification, especially in the dog Breed classifier, The F-Score was used, this is often used in deep learning. This metric quantifies the area beneath PR Curve or Precision-Recall, that shows the relationship between precision and recall, it is a two-dimensional graph with precision metrics displayed in the y-axis and recall’s in the x-axis. It is most often used when learning from imbalanced data.
+
 F= 2*precision*recall/precision + recall
 
 # Methodology

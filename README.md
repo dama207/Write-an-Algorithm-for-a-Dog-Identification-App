@@ -12,9 +12,12 @@ In last years with the digital exploitation, there are many images, if we need t
 
 # Metrics
 
-The principal metric used is compare the testing values and predicted values, if these values are equal, this is counting. This result divides by total number of the values in testing dataset.
+To evaluate the performance, the principal metrics used were classification Accuracy and F Score. The classification Accuracy is the ratio of the number of correct predictions to the total number of input samples. This metric was used to evaluate simple tasks of classification, but this is not suitable when there are not the equal number of samples belonging to each class.
 
-100*count(predictions == test_targets)/(total predictions)
+100*count (predictions == test_targets)/(total predictions)
+
+To avoid the misclassification, especially in the dog Breed classifier, The F-Score was used, this is often used in deep learning. This metric quantifies the area beneath PR Curve or Precision-Recall, that shows the relationship between precision and recall, it is a two-dimensional graph with precision metrics displayed in the y-axis and recall’s in the x-axis. It is most often used when learning from imbalanced data.
+F= 2*precision*recall/precision + recall
 
 # Methodology
 
